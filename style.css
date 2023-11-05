@@ -43,7 +43,7 @@ body {
 #second::before{
     content: "";
     position: absolute;
-    background: url('../images/section1.jpg')no-repeat center center/cover;
+    background: url('images/section1.jpg')no-repeat center center/cover;
     top: 0px;
     left: 0px;
     /* iski help se photo upat gyi thi nav mai*/
